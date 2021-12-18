@@ -23,26 +23,7 @@
 ---
 
 <table><tr><td valign="top" width="50%">
- 
 
- <details>
-<summary>📊 Github Stats</summary>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=geekysaif&show_icons=true&theme=gotham" alt="Rajat Pathak | Stats" />
-
-</details>
-
-
- ![Visitor Count](https://profile-counter.glitch.me/{geekysaif}/count.svg)
-
-
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-
-
-
-
-
-<!--
 
 Here are some ideas to get you started:
 
