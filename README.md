@@ -1,25 +1,15 @@
 ### Hi there 👋
 
 # [Hi I am Rajat Pathak](http://www.appentus.com)
-[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-[<img height="30" src = "https://img.shields.io/badge/Facebook-%23E4405F.svg?&style=for-the-badge&logo=Facebook&logoColor=white">][Facebook] 
-[<img height="30" src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white">][Instagram] 
-[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
-
-![alt text](https://github.com/geekysaif/geekysaif/blob/main/cover.jpg)
 
 
 ### My Tech Toolbox 🧰
-
-<p align="left">
-<img src="https://cdn0.iconfinder.com/data/icons/social-media-2183/512/social__media__social_media__android_-512.png" alt="Android" width="40" height="40"/> 
-<img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-java-software-develop-command-language-512.png" alt="Java" height="40"/> 
-<img src="https://cdn2.iconfinder.com/data/icons/programming-languages-8/64/207_programming-program-language-code-kotlin-128.png" alt="Kotlin" height="40"/> 
-<img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-128.png" alt="Firebase" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-<img src="https://i.pinimg.com/originals/50/f1/58/50f1582a95bdac10f1c3fa295c8b947b.png" alt="mysql" width="40" height="40"/>
-<img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/flutter-128.png" alt="Flutter" width="40" height="40"/>
-</p>
+- Kotlin
+- Flutter
+- Node.js
+- PHP
+- Python
+- AI
 
  
 
