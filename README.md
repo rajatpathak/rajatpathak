@@ -19,12 +19,12 @@
 
 I'm a **mobile-first engineer and AI builder** based in **Jaipur, India**, leading product engineering at **[Appentus Technologies](https://www.appentus.com)**.
 
-I shipped my first Hello World app in **2009**, spent **8+ years** building production Android, iOS, and cross-platform products — and I'm now deeply focused on **AI-assisted engineering**, **LLM workflows**, and **agentic systems** that turn ideas into shipped software faster.
+I shipped my first Hello World app in **2009**, spent **8+ years** building production Android, iOS, and cross-platform products — and I'm now deeply focused on **AI-powered products**, **LLM workflows**, and **agentic systems** that turn ideas into shipped software faster.
 
-- 🧠 Building with **LLMs, AI agents, Cursor, and modern AI tooling**
+- 🧠 Building with **LLMs, AI agents, and intelligent product workflows**
 - 📱 Deep expertise in **Android (Java/Kotlin)**, **iOS (Swift)**, and **Flutter**
 - ⚙️ Combining **AI + mobile/web stacks** to ship smarter products
-- 🚀 Exploring **agentic video / content pipelines**, automation, and AI product UX
+- 🚀 Exploring **agentic systems**, automation, and AI product UX
 - 🤝 Open to collaborate on **AI + open-source**, mentoring, and knowledge sharing
 - 💬 Ask me about AI workflows, mobile architecture, Flutter, or shipping apps at scale
 
@@ -34,11 +34,11 @@ I shipped my first Hello World app in **2009**, spent **8+ years** building prod
 
 | Focus | What I'm doing |
 | --- | --- |
-| **AI-assisted development** | Using Cursor & LLM tooling to accelerate architecture, coding, and delivery |
-| **LLM product workflows** | Applying models to real product problems, not just demos |
-| **Agentic systems** | Exploring agents, skills, and automation for engineering & content pipelines |
-| **AI × Mobile** | Bringing AI capabilities into Flutter / Android / iOS product experiences |
-| **Learning in public** | Leveling up fast in AI and sharing what works with other builders |
+| **AI-powered products** | Applying LLMs to real product problems, not just demos |
+| **Agentic systems** | Building agents and automation for engineering & content pipelines |
+| **AI × Mobile** | Bringing AI capabilities into Flutter / Android / iOS experiences |
+| **LLM workflows** | Designing practical AI workflows that improve delivery speed and quality |
+| **Learning in public** | Leveling up in AI and sharing what works with other builders |
 
 ---
 
@@ -47,7 +47,6 @@ I shipped my first Hello World app in **2009**, spent **8+ years** building prod
 ### AI & Intelligent Systems
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-7C3AED?style=for-the-badge&logo=robotframework&logoColor=white)
@@ -86,7 +85,7 @@ I shipped my first Hello World app in **2009**, spent **8+ years** building prod
 | Area | Details |
 | --- | --- |
 | **AI Products** | Shipping AI-powered features into real mobile & web products |
-| **Agent Workflows** | Turning coding assistants into production-ready agent systems |
+| **Agent Workflows** | Building production-ready agent systems for real use cases |
 | **Mobile + AI** | Clean architecture for Flutter / Android / iOS with AI capabilities |
 | **Automation** | Using AI to compress idea → prototype → ship cycles |
 | **Open Source** | Looking to collaborate on AI, mobile, and cross-platform projects |
